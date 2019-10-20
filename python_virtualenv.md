@@ -35,7 +35,7 @@ python3 -m virtualenv venv3
 OR
 
 ```
-python3 -m virtualenv venv3
+python -m virtualenv venv3
 ```
 Where `venv3` is the name of your new environment.
 
